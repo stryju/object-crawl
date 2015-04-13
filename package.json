@@ -1,0 +1,28 @@
+{
+  "name": "object-crawl",
+  "version": "1.0.0",
+  "description": "object crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stryju/object-crawl.git"
+  },
+  "keywords": [
+    "object",
+    "crawl",
+    "key",
+    "chain"
+  ],
+  "author": "tomasz stryjewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stryju/object-crawl/issues"
+  },
+  "homepage": "https://github.com/stryju/object-crawl",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}

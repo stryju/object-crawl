@@ -1,0 +1,17 @@
+*.log
+*.pid
+*.seed
+*.sublime-*
+.DS_Store
+.grunt
+.idea
+.lock-wscript
+.sass-cache
+.sass-tmp
+.tern-port
+_SpecRunner.html
+coverage
+lib-cov
+logs
+node_modules
+pids
